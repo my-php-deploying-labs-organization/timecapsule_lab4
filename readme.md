@@ -3,7 +3,7 @@
 | Field | Value |
 |---|---|
 | Student | **Yakovlev Vladyslav** |
-| Group | **[указать группу]** |
+| Group | **IA2404** |
 | Specialty | **Applied Informatics (Informatică aplicată)** |
 | Level | **Advanced — tasks 1–14** |
 | Date | 04.11.2026 |
